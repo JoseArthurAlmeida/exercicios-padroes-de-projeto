@@ -1,4 +1,4 @@
-# Padrões de Projeto
+# Exercícios Padrões de Projeto
 
 Este repositório serve como um arquivo pessoal e um índice centralizado para todos os exercícios e implementações de
 Padrões de Projeto (Design Patterns) que realizei.
